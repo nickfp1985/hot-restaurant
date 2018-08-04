@@ -1,0 +1,21 @@
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  box-sizing: border-box;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.img {
+  max-height: 75px;
+  max-width: 75px;
+}
+
+#homeButton {
+  height: 35px;
+}
